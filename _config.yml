@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Juan Pautasso"
+title                    : "JP"
 title_separator          : "-"
 name                     : &name "Juan Pautasso"
 description              : &description "Portfolio showcasing expertise in medical imaging, data science, and R&D."
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Juan Pautasso"
   pronouns         : # example: "she/her"  
-  bio              : "I am a technology-driven professional passionate about shaping the future through innovation in medical imaging and data science."
+  bio              : "I am a technology-driven professional passionate about shaping the future through innovation in imaging processing and data analysis."
   location         : "Nijmegen, The Netherlands"
-  employer         : "Radboudumc - Advanced X-ray Tomographic Imaging Lab"
+  employer         : "Radboudumc - AXTI"
   uri              : # URL
   email            : "pautassojuan@gmail.com" 
 
