@@ -12,7 +12,7 @@ title                    : "Juan Pautasso"
 title_separator          : "-"
 name                     : &name "Juan Pautasso"
 description              : &description "Portfolio showcasing expertise in medical imaging, data science, and R&D."
-url                      : "https://jp-info.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://juanpautasso.github.io/jp-info/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JuanPautasso/jp-info.github.io"
 
