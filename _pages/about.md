@@ -16,7 +16,6 @@ redirect_from:
     <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/AI-pix.png" alt="Workspace" style="width: 300px; border-radius: 10px;">
   </div>
 </div>
-
 ---
 
 ## 📚 Research Contributions  
