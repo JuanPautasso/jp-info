@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+![Where innovation meets creativity](/images/dalle-1.jpg)
+
 # 🔬 Driving Innovation  
 Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world problems and contribute to meaningful advancements in healthcare.
 
