@@ -11,35 +11,61 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* Ph.D in Medical Imaging, Radboudumc, 2025 (expected)
+* M.S. in Biomedical Engineering, Polytechnic University of Madrid, 2019
+* B.S. in Biomedical Engineering, National University of Córdoba, 2017
+* B.S. in Mechatronics, National Technological University - Córdoba, 2012
+ 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2020: PhD in Medical Imaging
+* Radboudumc - Advanced X-ray Tomographic Imaging Lab
+    * Developing a 4D CT imaging modality combined with radiomics analysis, aimed at personalizing breast cancer treatment.
+    • Conducted measurements and computational modeling to characterize the X-ray system and perform quantitative evaluations.
+    • Supervised and mentored students, providing guidance in data analysis and image processing, leading to thesis completions
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Consultant
+* Freelance
+    • Identified funding opportunities for a health-tech company, contributing to the development of a new business unit.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2019: Software Engineer
+* Spanish National Center for Cardiovascular Research - CNIC
+    • Developed and implemented fMRI data processing software that made the process 10 times faster and improved patient group comparison accuracy using machine learning.
+
+* 2018: Field Engineer
+    • Provided technical service for medical imaging equipment.
+    • Specialized in ultrasound and LASER technologies.
+
+* 2013-2017: Research Fellow
+* Universidad Nacional de Córdoba - FCEFyN
+    • Researched, developed, and optimized electrical circuits for the acquisition, processing, and amplification of biological signals.
+    • Designed and validated sensors to detect physiological states.
+    • Conducted training on non-traditional interfaces, specializing in electromyography
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* Technical Skills
+  * Medical Imaging
+  * Python
+  * Machine Learning
+  * Electronics
+  * Data Visualization
+  * Data Analysis
+  * Signal Processing
+  * Signal Processing
+ 
+* Transferable Skills
+  * Critical Thinking
+  * Resilience
+  * Presentation Skills
+  * Leadership
+  * Team Collaboration
+  * Communication
+  * Continuous Learning
+  * Problem Solving
+  * Project Management
+  * Technical Writing 
 
 Publications
 ======
