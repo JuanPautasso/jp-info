@@ -11,12 +11,6 @@ redirect_from:
 
 ## Education
 ---
-* Ph.D in Medical Imaging, Radboudumc, 2025 (expected)
-* M.S. in Biomedical Engineering, Polytechnic University of Madrid, 2019
-* B.S. in Biomedical Engineering, National University of Cordoba, 2017
-* B.S. in Mechatronics, National Technological University - Cordoba, 2012
- 
-# Education
 
 - **Ph.D. in Medical Imaging, Radboudumc** (2025 expected)  
 - **M.S. in Biomedical Engineering, Polytechnic University of Madrid** (2019)  
