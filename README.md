@@ -1,5 +1,4 @@
-# Hi, I'm Juan 👋
-Welcome to my GitHub profile! I am a technology-driven professional with expertise in image processing, data analysis, and R&D.
+# Hi, Welcome to my GitHub profile 👋
 
 ## 🔭 Current Projects
 - Developing solutions in medical imaging at Radboudumc.
