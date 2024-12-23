@@ -4,6 +4,6 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/talk-4
 venue: "European Congress of Radiology"
-date: 2023-07-13
+date: 2022-07-13
 location: "Vienna, Austria"
 ---
