@@ -35,4 +35,4 @@ location: "Córdoba, Argentina"
 ---
 
 ## Outcome
-Participants gain a comprehensive understanding of non-traditional interfaces with a focus on EMG and its applications in innovative technologies.
+Participants gained a comprehensive understanding of non-traditional interfaces with a focus on EMG and its applications in innovative technologies.
