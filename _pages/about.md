@@ -19,8 +19,8 @@ I have led and contributed to impactful projects that have advanced the field of
 
 - Developed a 4D CT imaging modality combined with radiomics analysis for personalized breast cancer treatment.  
 - Created deep learning models for x-ray scatter correction in dedicated breast CT systems, significantly enhancing image quality and diagnostic precision.  
-- Published articles in leading journals such as *Medical Physics* and *SPIE*.  
-- Presented at renowned conferences around the world, including the *European Congress of Radiology* and the *International Workshop of Breast Imaging*.  
+- Published articles in leading journals such as Medical Physics and SPIE.  
+- Presented at renowned conferences around the world, including the European Congress of Radiology and the International Workshop of Breast Imaging.  
 
 ---
 
@@ -36,9 +36,9 @@ My dedication to independent research has resulted in a portfolio of peer-review
 ## 👨🏻‍🔬 Professional Expertise  
 My professional journey reflects diverse and impactful roles in academia and industry:  
 
-- **PhD Researcher** at *Radboudumc*: Leading advanced x-ray imaging research, mentoring students, and collaborating with multidisciplinary teams to develop novel imaging solutions.  
+- **PhD Researcher** at Radboudumc: Leading advanced x-ray imaging research, mentoring students, and collaborating with multidisciplinary teams to develop novel imaging solutions.  
 - **Consultant** for health-tech companies: Identified funding opportunities and supported the establishment of new business units in medical technology.  
-- **Research Engineer** at *CNIC*: Worked on machine learning models and developed algorithm pipelines for faster and more accurate medical image processing, improving diagnostic efficiency.  
+- **Research Engineer** at CNIC: Worked on machine learning models and developed algorithm pipelines for faster and more accurate medical image processing, improving diagnostic efficiency.  
 
 ---
 
