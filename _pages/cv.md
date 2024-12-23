@@ -57,7 +57,7 @@ redirect_from:
 Skills
 ---
 
-* Technical Skills
+* # Technical Skills
   * Medical Imaging
   * Python
   * Machine Learning
@@ -67,7 +67,7 @@ Skills
   * Signal Processing
   * Signal Processing
  
-* Transferable Skills
+* # Transferable Skills
   * Critical Thinking
   * Resilience
   * Presentation Skills
