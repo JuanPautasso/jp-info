@@ -2,7 +2,7 @@
 title: "Deep learning for x-ray scatter correction in dedicated breast CT"
 collection: publications
 category: manuscripts
-permalink: 'https://doi.org/10.1002/mp.16185'
+permalink: /publication/paper-title-number-2
 date: 2023-04-01
 venue: 'Medical Physics'
 paperurl: 'https://github.com/JuanPautasso/jp-info/blob/master/files/Deep_learning_for_scatter_correction.pdf' 
