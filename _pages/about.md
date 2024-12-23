@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 # 🔬 Driving Innovation  
-As a PhD Candidate in Medical Imaging at Radboudumc, I am dedicated to advancing diagnostic and treatment technologies for breast cancer through innovative imaging solutions, data analysis, and computational modeling. My work combines radiomics, deep learning, and system optimization to enhance imaging accuracy and improve patient outcomes.  
+Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world problems and contribute to meaningful advancements in healthcare.
 
-Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world problems and contribute to meaningful advancements in healthcare.  
+As a PhD Candidate in Medical Imaging at Radboudumc, I am dedicated to advancing diagnostic and treatment technologies for breast cancer through innovative imaging solutions, data analysis, and computational modeling. My work combines radiomics, deep learning, and system optimization to enhance imaging accuracy and improve patient outcomes.  
 
 ---
 
@@ -54,4 +54,4 @@ I am deeply invested in supporting the next generation of researchers and foster
 
 My goal is to leverage my expertise in image processing and data science to drive innovation and contribute to impactful research that enhances outcomes globally.  
 
-As I approach the completion of my Ph.D., I am eager to apply my technical expertise to new challenges beyond academia. With a strong foundation in analytical problem-solving, a collaborative mindset, and a commitment to meaningful innovation, I aim to apply technology to projects that positively impact society and address real-world challenges.  
+I am eager to apply my technical expertise to new challenges beyond academia. With a strong foundation in analytical problem-solving, a collaborative mindset, and a commitment to meaningful innovation, I aim to apply technology to projects that positively impact society and address real-world challenges.  
