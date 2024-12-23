@@ -8,7 +8,7 @@ redirect_from:
 ---
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <h2>🔬 Driving Innovation</h2>
+    <h2>🔬 Driving Innovation in image optimization</h2>
     <p>Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world problems and contribute to meaningful advancements in healthcare.</p>
     <p>As a PhD Candidate in Medical Imaging at Radboudumc, I am dedicated to advancing diagnostic and treatment technologies for breast cancer through innovative imaging solutions, data analysis, and computational modeling. My work combines radiomics, deep learning, and system optimization to enhance imaging accuracy and improve patient outcomes.</p>
   </div>
@@ -16,13 +16,6 @@ redirect_from:
     <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/AI-pix.png" alt="Workspace" style="width: 300px; border-radius: 10px;">
   </div>
 </div>
-
----
-
-## 🔬 Driving Innovation in image optimization
-Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world problems and contribute to meaningful advancements in healthcare.
-
-As a PhD Candidate in Medical Imaging at Radboudumc, I am dedicated to advancing diagnostic and treatment technologies for breast cancer through innovative imaging solutions, data analysis, and computational modeling. My work combines radiomics, deep learning, and system optimization to enhance imaging accuracy and improve patient outcomes.  
 
 ---
 
