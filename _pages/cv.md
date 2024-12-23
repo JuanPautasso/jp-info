@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
----
 
 - **Ph.D. in Medical Imaging, Radboudumc** (2025 expected)  
 - **M.S. in Biomedical Engineering, Polytechnic University of Madrid** (2019)  
@@ -56,7 +55,6 @@ redirect_from:
 ---
 
 ## Skills
----
 
 * ### Technical Skills
   * Medical Imaging
@@ -83,7 +81,7 @@ redirect_from:
 ---
 
 ## Publications
----
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -91,7 +89,7 @@ redirect_from:
 ---
 
 ## Talks
----
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
@@ -99,7 +97,7 @@ redirect_from:
 ---
 
 ## Teaching
----
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -107,7 +105,7 @@ redirect_from:
 ---
 
 ## Languages
----
+
 - Spanish: Native
 - English: Full professional proficiency
 - Dutch: Intermediate
@@ -115,8 +113,9 @@ redirect_from:
 ---
 
 ## Learning & Growth
----
+
 - CERN: “Geant4 Basic Course” and “Geant4 Advanced Course”
 - Standford University: “Machine Learning”
 - Google: “Project Management Professional Certificate” and “AI Essentials”
 - McKinsey & Company: “Forward Program” – Focused on leadership and consulting skills
+---
