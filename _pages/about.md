@@ -38,15 +38,15 @@ My professional journey reflects diverse and impactful roles in academia and ind
 
 - **PhD Researcher** at Radboudumc: Leading advanced x-ray imaging research, mentoring students, and collaborating with multidisciplinary teams to develop novel imaging solutions.  
 - **Consultant** for health-tech companies: Identified funding opportunities and supported the establishment of new business units in medical technology.  
-- **Research Engineer** at CNIC: Worked on machine learning models and developed algorithm pipelines for faster and more accurate medical image processing, improving diagnostic efficiency.  
+- **Research Engineer** at CNIC: Worked on machine learning models and developed algorithm pipelines for faster and accurate image processing.  
 
 ---
 
 ## 📽️ Mentorship and Community Engagement  
-I am deeply invested in supporting the next generation of researchers and fostering collaboration within the scientific community:  
+I am dedicated to supporting the next generation of researchers and fostering collaboration within the scientific community:
 
-- Supervised and guided students in imaging processing and data analysis, enabling them to excel in their research.  
-- Delivered educational content and presentations to bridge gaps between academia and practical applications in image optimization.  
+- Supervised and mentored students in image processing and data analysis, helping them successfully complete their theses.
+- Delivered educational content and presentations on image optimization. 
 
 ---
 
