@@ -1,5 +1,5 @@
 ---
-title: "A phantom based image quality comparison between two breast CT systems"
+title: "A phantom based image quality comparison between two breast CT systems"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/talk-2
