@@ -1,5 +1,5 @@
 ---
-title: "4D Dynamic Contrast-Enhanced Breast CT: Evaluation of quantitative accuracy (2024)"
+title: "4D Dynamic Contrast-Enhanced Breast CT: Evaluation of quantitative accuracy"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/talk-1
