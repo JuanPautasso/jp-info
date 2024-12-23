@@ -17,7 +17,7 @@ redirect_from:
       As a PhD Candidate in Medical Imaging at Radboudumc, I am dedicated to advancing diagnostic and treatment technologies for breast cancer through innovative imaging solutions, data analysis, and computational modeling. My work combines radiomics, deep learning, and system optimization to enhance imaging accuracy and improve patient outcomes.
     </p>
   </div>
-  <div style="flex-shrink: 0;">
+  <div style="flex-shrink: 0; align-self: flex-end;"> <!-- This line adjusts the image alignment -->
     <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/AI-pix.png" alt="Workspace" style="width: 300px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
   </div>
 </div>
