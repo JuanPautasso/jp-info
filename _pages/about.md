@@ -55,6 +55,13 @@ I am dedicated to supporting the next generation of researchers and fostering co
 - Delivered educational content and presentations on image optimization. 
 
 ---
+## 🏆 Awards
+
+- Awarded a scholarship by the Tarpuy Foundation for academic excellence during my undergraduate studies.
+- Received a scholarship from the Carolina Foundation in 2018 to pursue a master’s degree in Spain, recognizing academic excellence.
+- Honored with the FONSOFT award for my thesis in biomedical engineering.
+
+---
 
 ## 🌟 Vision and Passion   
 
