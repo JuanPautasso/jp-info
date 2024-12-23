@@ -20,27 +20,27 @@ Work experience
 ======
 * June 2020: PhD in Medical Imaging
 * Radboudumc - Advanced X-ray Tomographic Imaging Lab
-    * Developing a 4D CT imaging modality combined with radiomics analysis, aimed at personalizing breast cancer treatment.
-    • Conducted measurements and computational modeling to characterize the X-ray system and perform quantitative evaluations.
-    • Supervised and mentored students, providing guidance in data analysis and image processing, leading to thesis completions
+  * Developing a 4D CT imaging modality combined with radiomics analysis, aimed at personalizing breast cancer treatment.
+  • Conducted measurements and computational modeling to characterize the X-ray system and perform quantitative evaluations.
+  • Supervised and mentored students, providing guidance in data analysis and image processing, leading to thesis completions
 
 * Consultant
 * Freelance
-    • Identified funding opportunities for a health-tech company, contributing to the development of a new business unit.
+  • Identified funding opportunities for a health-tech company, contributing to the development of a new business unit.
 
 * 2018-2019: Software Engineer
 * Spanish National Center for Cardiovascular Research - CNIC
-    • Developed and implemented fMRI data processing software that made the process 10 times faster and improved patient group comparison accuracy using machine learning.
+  • Developed and implemented fMRI data processing software that made the process 10 times faster and improved patient group comparison accuracy using machine learning.
 
 * 2018: Field Engineer
-    • Provided technical service for medical imaging equipment.
-    • Specialized in ultrasound and LASER technologies.
+  • Provided technical service for medical imaging equipment.
+  • Specialized in ultrasound and LASER technologies.
 
 * 2013-2017: Research Fellow
 * Universidad Nacional de Córdoba - FCEFyN
-    • Researched, developed, and optimized electrical circuits for the acquisition, processing, and amplification of biological signals.
-    • Designed and validated sensors to detect physiological states.
-    • Conducted training on non-traditional interfaces, specializing in electromyography
+  • Researched, developed, and optimized electrical circuits for the acquisition, processing, and amplification of biological signals.
+  • Designed and validated sensors to detect physiological states.
+  • Conducted training on non-traditional interfaces, specializing in electromyography
   
 Skills
 ======
