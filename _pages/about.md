@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![When creativity merges with innovation](/images/AI-pix.png)
+![pixels](https://github.com/JuanPautasso/jp-info/tree/master/images/AI-pix.png)
 ---
 
 ## 🔬 Driving Innovation in image optimization
