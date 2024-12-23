@@ -5,5 +5,5 @@ type: "Conference proceedings talk"
 permalink: /talks/talk-1
 venue: "International Workshop of Breast Imaging"
 date: 2024-05-29
-location: "Chicago, Illinois"
+location: "Chicago, United States"
 ---
