@@ -10,7 +10,7 @@ location: "Nijmegen, The Netherlands"
 
 ## Lecture: Image quality and intro to practicum
 
-## Learning Objectives
+Learning Objectives
 1. 	Explain the basic image quality descriptors: contrast, spatial resolution, and noise.
 2. 	List the main acquisition parameters in x-ray imaging systems (exposure, tube voltage, geometric considerations).
 3. 	Briefly describe how acquisition parameters affect image quality.
