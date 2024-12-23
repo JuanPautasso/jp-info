@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![When creativity merges with innovation](/images/dalle-1.jpg)
+---
 
 ## 🔬 Driving Innovation in image optimization
 Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world problems and contribute to meaningful advancements in healthcare.
