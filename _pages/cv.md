@@ -118,4 +118,5 @@ redirect_from:
 - Standford University: “Machine Learning”
 - Google: “Project Management Professional Certificate” and “AI Essentials”
 - McKinsey & Company: “Forward Program” – Focused on leadership and consulting skills
+  
 ---
