@@ -13,46 +13,52 @@ redirect_from:
 ---
 * Ph.D in Medical Imaging, Radboudumc, 2025 (expected)
 * M.S. in Biomedical Engineering, Polytechnic University of Madrid, 2019
-* B.S. in Biomedical Engineering, National University of Córdoba, 2017
-* B.S. in Mechatronics, National Technological University - Córdoba, 2012
+* B.S. in Biomedical Engineering, National University of Cordoba, 2017
+* B.S. in Mechatronics, National Technological University - Cordoba, 2012
  
-## Work Experience
+# Education
+
+- **Ph.D. in Medical Imaging, Radboudumc** (2025 expected)  
+- **M.S. in Biomedical Engineering, Polytechnic University of Madrid** (2019)  
+- **B.S. in Biomedical Engineering, National University of Córdoba** (2017)  
+- **B.S. in Mechatronics, National Technological University - Córdoba** (2012)
+
 ---
 
-### **PhD in Medical Imaging**
-Radboudumc - Advanced X-ray Tomographic Imaging Lab
-June 2020 – Present
+# Work Experience
+
+### **Ph.D. in Medical Imaging at Radboudumc**  
+**June 2020 – Present**  
 - Developing a 4D CT imaging modality combined with radiomics analysis to personalize breast cancer treatment.  
 - Conducted measurements and computational modeling to characterize the X-ray system and perform quantitative evaluations.  
 - Supervised and mentored students, guiding data analysis and image processing, resulting in thesis completions.  
 
 ---
 
-### **Consultant**  
-Health-Tech Sector  
+### **Consultant in Health-Tech Sector**  
+**2019 – 2020**  
 - Identified funding opportunities for a health-tech company, contributing to the development of a new business unit.  
 
 ---
 
-### **Software Engineer**  
-Spanish National Center for Cardiovascular Research - CNIC  
-2018 – 2019  
+### **Software Engineer at Spanish National Center for Cardiovascular Research**  
+**2018 – 2019**  
 - Developed and implemented fMRI data processing software that accelerated analysis by 10x and improved patient group comparison accuracy using machine learning.  
 
 ---
 
-### **Field Engineer**  
-*2018*  
+### **Field Engineer in Health-Tech Sector**  
+**2018**  
 - Provided technical service for medical imaging equipment, specializing in ultrasound and LASER technologies.  
 
 ---
 
-### **Research Fellow**  
-National University of Córdoba
-2013 – 2017  
+### **Research Fellow at National University of Córdoba**  
+**2013 – 2017**  
 - Researched, developed, and optimized electrical circuits for the acquisition, processing, and amplification of biological signals.  
 - Designed and validated sensors to detect physiological states.  
-- Conducted training on non-traditional interfaces, specializing in electromyography.
+- Conducted training on non-traditional interfaces, specializing in electromyography.  
+
 
 Skills
 ======
