@@ -1,5 +1,5 @@
 ---
-title: "X-ray scatter correction in breast CT images using deep learning"
+title: "X-ray scatter correction in breast CT images using deep learning"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/talk-4
