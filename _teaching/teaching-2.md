@@ -2,7 +2,7 @@
 title: "BMS course - PRA - Image acquisition and image quality"
 collection: teaching
 type: "Lecture"
-permalink: /teaching/teaching-1
+permalink: /teaching/teaching-2
 venue: "Radboud University"
 date: 2024-01-17
 location: "Nijmegen, The Netherlands"
