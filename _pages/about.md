@@ -6,7 +6,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![pixels](https://github.com/JuanPautasso/jp-info/tree/master/images/AI-pix.png)
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1; padding-right: 20px;">
+    <h2>Driving Innovation in image optimization</h2>
+    <p>Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world problems and contribute to meaningful advancements in healthcare.</p>
+    <p>As a PhD Candidate in Medical Imaging at Radboudumc, I am dedicated to advancing diagnostic and treatment technologies for breast cancer through innovative imaging solutions, data analysis, and computational modeling. My work combines radiomics, deep learning, and system optimization to enhance imaging accuracy and improve patient outcomes.</p>
+  </div>
+  <div>
+    <img src="[(https://github.com/JuanPautasso/jp-info/tree/master/images/AI-pix.png)" alt="Image" style="max-width: 100%; height: auto;"]>
+  </div>
+</div>
+****
+
 ---
 
 ## 🔬 Driving Innovation in image optimization
