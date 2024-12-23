@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
+# Education
 ---
 
 - **Ph.D. in Medical Imaging, Radboudumc** (2025 expected)  
@@ -54,10 +54,10 @@ redirect_from:
 - Conducted training on non-traditional interfaces, specializing in electromyography.  
 
 
-Skills
+# Skills
 ---
 
-* # Technical Skills
+* ### Technical Skills
   * Medical Imaging
   * Python
   * Machine Learning
@@ -67,7 +67,7 @@ Skills
   * Signal Processing
   * Signal Processing
  
-* # Transferable Skills
+* ### Transferable Skills
   * Critical Thinking
   * Resilience
   * Presentation Skills
@@ -80,7 +80,7 @@ Skills
   * Technical Writing 
 ---
 
-Publications
+# Publications
 ---
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -88,7 +88,7 @@ Publications
 
 ---
 
-Talks
+# Talks
 ---
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -96,7 +96,7 @@ Talks
 
 ---
 
-Teaching
+# Teaching
 ---
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
