@@ -1,7 +1,7 @@
 ---
 title: "4D dynamic contrast-enhanced breast CT: evaluation of quantitative accuracy"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: 'https://doi.org/10.1117/12.3026825'
 date: 2024-05-24
 venue: 'SPIE conference proceedings'
