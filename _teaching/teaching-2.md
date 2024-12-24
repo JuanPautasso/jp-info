@@ -1,5 +1,5 @@
 ---
-title: "BMS course - PRA - Image acquisition and image quality"
+title: "BMS course - Image acquisition and image quality"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/teaching-2
