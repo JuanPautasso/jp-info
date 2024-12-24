@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "JP"
 title_separator          : "-"
 name                     : &name "Juan Pautasso"
 description              : &description "Portfolio showcasing expertise in medical imaging, data science, and R&D."
