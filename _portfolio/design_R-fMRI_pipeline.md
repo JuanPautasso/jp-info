@@ -38,6 +38,6 @@ This multidisciplinary project combines mathematics, statistics, programming, ma
 
 ---
 
-<p>You can download the full document from the <strong>Publication</strong> section under the title:</p>
+<p>You can download the full document from the "Publications" section under the title:</p>
 <p>Design and Development of a Novel Pipeline for Resting-State Functional Magnetic Resonance Imaging Processing<br>
 <em>Published in E.T.S.I. Telecomunicación (UPM), 2019.</em></p>
