@@ -1,6 +1,6 @@
 ---
 title: "Design and development of a novel pipeline for resting-state functional magnetic resonance imaging processing"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_24.jpg'>"
+excerpt: "  <img src='https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_24.jpg'>"
 collection: portfolio
 ---
 
