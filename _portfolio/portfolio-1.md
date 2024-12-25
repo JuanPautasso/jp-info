@@ -1,17 +1,16 @@
 ---
 title: "Design and development of a novel pipeline for resting-state functional magnetic resonance imaging processing"
-excerpt: "  <img src='https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_24.jpg'>
-The developed pipeline automates preprocessing and processing of R-fMRI data to analyze functional connectivity, particularly in the Default Mode Network (DMN). Key outcomes include:
-
+excerpt: "<img src='https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_24.jpg' /> The developed pipeline automates preprocessing and processing of R-fMRI data to analyze functional connectivity, particularly in the Default Mode Network (DMN). Key outcomes include:
 <ul>
-  <li>Functional connectivity differences between control subjects (27) and patients with mild cognitive impairment (32) were identified, specifically reduced connectivity between the left hippocampus and right medial prefrontal cortex.</li>
-  <li>Statistical analyses, accounting for age and gender, confirmed significant differences (p < 0.05 after Bonferroni correction).</li>
-  <li>The pipeline enables efficient data analysis with results generated in approximately 50 minutes per subject, a significant improvement over manual methods.</li>
-  <li>The tool is flexible, standardized, and accessible on conventional hardware, promoting widespread usability and reducing workload and costs for researchers and clinicians.</li>
-</ul>
-
+<li>Functional connectivity differences between control subjects (27) and patients with mild cognitive impairment (32) were identified, specifically reduced connectivity between the left hippocampus and right medial prefrontal cortex.</li>
+<li>Statistical analyses, accounting for age and gender, confirmed significant differences (p < 0.05 after Bonferroni correction).</li>
+<li>The pipeline enables efficient data analysis with results generated in approximately 50 minutes per subject, a significant improvement over manual methods.</li>
+<li>The tool is flexible, standardized, and accessible on conventional hardware, promoting widespread usability and reducing workload and costs for researchers and clinicians.</li>
+</ul>"
 collection: portfolio
+  
 ---
+
 
 A preprocessing and processing pipeline for R-fMRI data was developed, tailored to research needs with input from professionals at Hospital General Universitario Gregorio Marañón. The pipeline integrates the strengths of various open-source fMRI software tools and was successfully implemented and tested.
 
