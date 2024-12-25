@@ -12,7 +12,7 @@ excerpt: >
     </ul>
     <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_24.jpg" alt="Pipeline image" />
     <p>Figure: Right medial prefrontal cortex and left hippocampus.</p>
-    <p>For more information, please click the title above.</p>
+    <p><strong>For more information, please click the title above.<strong></p>
   </div>
 collection: portfolio
 ---
@@ -39,5 +39,4 @@ This multidisciplinary project combines mathematics, statistics, programming, ma
 ---
 
 <p>You can download the full document from the "Publications" section under the title:</p>
-<p>Design and Development of a Novel Pipeline for Resting-State Functional Magnetic Resonance Imaging Processing<br>
-<em>Published in E.T.S.I. Telecomunicación (UPM), 2019.</em></p>
+<p><strong>Design and Development of a Novel Pipeline for Resting-State Functional Magnetic Resonance Imaging Processing</strong>, <em>Published in E.T.S.I. Telecomunicación (UPM), 2019.</em></p>
