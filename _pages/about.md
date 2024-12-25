@@ -35,8 +35,13 @@ redirect_from:
     div[style*="flex: 1 1 60%;"] {
       text-align: center;
     }
+
+    div[style*="flex: 1 1 40%;"] {
+      margin-top: 20px;
+    }
   }
 </style>
+
 
 ---
 
