@@ -11,20 +11,23 @@ redirect_from:
   <div style="display: flex; align-items: flex-start; gap: 20px;">
     <h2 style="margin: 0;">🔬 Driving Innovation in Image Optimization</h2>
   </div>
-  <div style="display: flex; align-items: flex-start; gap: 20px;">
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
     <div style="flex: 1;">
       <p style="margin: 10px 0; line-height: 1.6;">
         Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world challenges and push the boundaries of innovation.
       </p>
+    </div>
+    <div style="flex-shrink: 0; margin: 20px 0;"> <!-- Centered the image -->
+      <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/AI-pix.png" alt="Workspace" style="width: 300px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
+    </div>
+    <div style="flex: 1;">
       <p style="margin: 0; line-height: 1.6;">
         As a PhD Candidate in Medical Imaging at Radboudumc, I am dedicated to advancing diagnostic and treatment technologies for breast cancer through innovative imaging solutions, data analysis, and computational modeling. My work combines radiomics, deep learning, and system optimization to enhance imaging accuracy and improve patient outcomes.
       </p>
     </div>
-    <div style="flex-shrink: 0; margin-top: 20px;"> <!-- Lowered the image -->
-      <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/AI-pix.png" alt="Workspace" style="width: 300px; border-radius: 10px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
-    </div>
   </div>
 </div>
+
 
 
 ---
