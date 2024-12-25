@@ -58,11 +58,10 @@ My professional journey reflects diverse and impactful roles in academia and ind
 
 ---
 
-## 📽️ Mentorship and Community Engagement  
-I am dedicated to supporting the next generation of researchers and fostering collaboration within the scientific community:
+## 📽️ Mentorship
 
 - Supervised and mentored students in image processing and data analysis, helping them successfully complete their theses.
-- Delivered educational content and presentations on image optimization. 
+- Delivered educational content and presentations on signal and image optimization. 
 
 ---
 ## 🏆 Awards
