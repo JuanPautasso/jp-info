@@ -73,8 +73,8 @@ I am dedicated to supporting the next generation of researchers and fostering co
 
 ---
 
-## 🌟 Vision and Passion   
+## 🌟 Vision
 
 My goal is to leverage my expertise in image processing and data science to drive innovation and contribute to impactful research that enhances outcomes globally.  
 
-I am eager to apply my technical expertise to new challenges beyond academia. With a strong foundation in analytical problem-solving, a collaborative mindset, and a commitment to meaningful innovation, I aim to apply technology to projects that positively impact society and address real-world challenges.  
+I am eager to apply my technical expertise to new challenges beyond academia, leveraging analytical problem-solving and collaboration to drive meaningful innovation that addresses real-world needs and positively impacts society.  
