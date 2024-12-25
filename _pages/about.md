@@ -74,6 +74,4 @@ My professional journey reflects diverse and impactful roles in academia and ind
 
 ## 🌟 Vision
 
-My goal is to leverage my expertise in image processing and data science to drive innovation and contribute to impactful research that enhances outcomes globally.  
-
-I am eager to apply my technical expertise to new challenges beyond academia, leveraging analytical problem-solving and collaboration to drive meaningful innovation that addresses real-world needs and positively impacts society.  
+My goal is to apply my expertise in image processing and data science to drive innovation and contribute to impactful research that improves outcomes worldwide. Beyond academia, I am eager to tackle new challenges, utilizing analytical problem-solving and collaboration to develop meaningful solutions that address real-world needs and positively impact society.  
