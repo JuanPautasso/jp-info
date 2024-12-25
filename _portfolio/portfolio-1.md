@@ -8,10 +8,11 @@ excerpt: >
       <li>Statistical analyses, accounting for age and gender, confirmed significant differences (p < 0.05 after Bonferroni correction).</li>
       <li>The pipeline enables efficient data analysis with results generated in approximately 50 minutes per subject, a significant improvement over manual methods.</li>
       <li>The tool is flexible, standardized, and accessible on conventional hardware, promoting widespread usability and reducing workload and costs for researchers and clinicians.</li>
-      <li> After analyzing the results obtained after the above considerations, it was found that there are differences in connectivity between the control group and the groups with mild cognitive impairment. The difference is found in regions 4-5, that is, between the left hippocampus and the right medial prefrontal cortex. See Figure below: <li>
+      <li>After analyzing the results, it was found that there are differences in connectivity between the control group and the groups with mild cognitive impairment. The difference is found in regions 4-5, that is, between the left hippocampus and the right medial prefrontal cortex. See the figure below:</li>
     </ul>
     <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_24.jpg" alt="Pipeline image" />
-    <li> Figure: Right medial prefrontal cortex & Left hippocampus <li> 
+    <p><strong>Figure:</strong> Right medial prefrontal cortex & Left hippocampus.</p>
+    <p>For more information, please click the title above.</p>
   </div>
 collection: portfolio
 ---
