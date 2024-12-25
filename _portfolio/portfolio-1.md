@@ -24,7 +24,11 @@ Key achievements include:
 
 This multidisciplinary project combines mathematics, statistics, programming, machine learning, and medical imaging. It highlights the benefits of collaboration in research, reducing workload and costs while accelerating results, thus advancing patient care and scientific understanding.
 
-Attached is the presentation for your reference. <iframe src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/Presentation_TFM.pdf" width="100%" height="600px"></iframe>
+<section id="presentation">
+  <h2>Presentation</h2>
+  <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/Presentation_TFM.pdf&embedded=true" width="100%" height="600px"></iframe>
+  <p>If the presentation does not load, you can <a href="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/Presentation_TFM.pdf" target="_blank">download it here</a>.</p>
+</section>
 
 You can download the full document from the "Publication" section under the title:
 
