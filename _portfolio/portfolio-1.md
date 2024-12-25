@@ -24,4 +24,9 @@ Key achievements include:
 
 This multidisciplinary project combines mathematics, statistics, programming, machine learning, and medical imaging. It highlights the benefits of collaboration in research, reducing workload and costs while accelerating results, thus advancing patient care and scientific understanding.
 
-<iframe src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/files/Presentation_TFM.pdf" width="100%" height="600px"></iframe>
+Attached is the presentation for your reference. <iframe src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/Presentation_TFM.pdf" width="100%" height="600px"></iframe>
+
+You can download the full document from the "Publication" section under the title:
+
+Design and Development of a Novel Pipeline for Resting-State Functional Magnetic Resonance Imaging Processing
+Published in E.T.S.I. Telecomunicación (UPM), 2019
