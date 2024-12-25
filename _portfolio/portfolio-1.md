@@ -20,12 +20,12 @@ collection: portfolio
 A preprocessing and processing pipeline for R-fMRI data was developed, tailored to meet research needs with input from professionals at Hospital General Universitario Gregorio Marañón. The pipeline integrates the strengths of various open-source fMRI software tools and was successfully implemented and tested.
 
 ### Key Achievements:
-- **Accurate cortical surface extraction and successful structural-functional image registration.**
-- **Automated execution:** The pipeline can be executed from a terminal or executable file, allowing analysis of multiple patients with results organized for easy access.
-- **Compatibility:** Works on both personal computers and clusters, requiring only standard hardware (e.g., 8GB RAM, i5 processor).
-- **Efficiency:** Processing time is reduced to approximately 50 minutes per patient, compared to a full day when done manually.
-- **Standardized processing:** The pipeline ensures uniform analysis for all patients, with flexibility to replace individual software functions as needed.
-- **Scalable analysis:** It efficiently analyzed a study sample of 59 patients (healthy controls and patients with mild cognitive impairment) in just 3 days, identifying connectivity differences between the left hippocampus and right medial prefrontal cortex. The results demonstrated the pipeline's reliability and its seamless integration with Python for statistical analyses.
+- Accurate cortical surface extraction and successful structural-functional image registration.
+- Automated execution: The pipeline can be executed from a terminal or executable file, allowing analysis of multiple patients with results organized for easy access.
+- Compatibility: Works on both personal computers and clusters, requiring only standard hardware (e.g., 8GB RAM, i5 processor).
+- Efficiency: Processing time is reduced to approximately 50 minutes per patient, compared to a full day when done manually.
+- Standardized processing: The pipeline ensures uniform analysis for all patients, with flexibility to replace individual software functions as needed.
+- Scalable analysis: It efficiently analyzed a study sample of 59 patients (healthy controls and patients with mild cognitive impairment) in just 3 days, identifying connectivity differences between the left hippocampus and right medial prefrontal cortex. The results demonstrated the pipeline's reliability and its seamless integration with Python for statistical analyses.
 
 This multidisciplinary project combines mathematics, statistics, programming, machine learning, and medical imaging. It highlights the benefits of collaboration in research, reducing workload and costs while accelerating results, thus advancing patient care and scientific understanding.
 
@@ -34,8 +34,7 @@ This multidisciplinary project combines mathematics, statistics, programming, ma
 <section id="presentation">
   <h2>Presentation</h2>
   <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/JuanPautasso/jp-info/master/presentations/presentation_master.pdf&embedded=true" width="100%" height="600px"></iframe>
-  <p>If the presentation does not load, you can <a href="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/presentations/presentation_master.pdf" target="_blank">download it here</a>.</p>
-</section
+  <p>If the presentation does not load, simply refresh or you can <a href="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/presentations/presentation_master.pdf" target="_blank">download it here</a>.</p>
 
 ---
 
