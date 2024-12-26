@@ -32,12 +32,8 @@ This study highlights the potential of 4D DCE-bCT for dynamic imaging of breast 
 
 <section id="presentation">
   <h2>Presentation</h2>
-  <iframe src="https://docs.google.com/gview?url=https://example.com/presentation_4D_DCE_bCT.pdf&embedded=true" 
-          width="100%" height="60vh" style="border:none;">
-  </iframe>
-  <p>If the presentation does not load, simply refresh or you can 
-     <a href="https://example.com/presentation_4D_DCE_bCT.pdf" target="_blank" rel="noopener noreferrer">download it here</a>.
-  </p>
+  <iframe src="https://docs.google.com/gview?url=https://raw.githubusercontent.com/JuanPautasso/jp-info/master/presentations/presentation_4D_DCE_bCT.pdf&embedded=true" width="100%" height="600px"></iframe>
+  <p>If the presentation does not load, simply refresh or you can <a href="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/presentations/presentation_4D_DCE_bCT.pdf" target="_blank">download it here</a>.</p>
 </section>
 
 ---
