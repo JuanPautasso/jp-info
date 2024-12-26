@@ -11,7 +11,7 @@ collection: portfolio
 ---
 
 ### Overview
-This project evaluates the quantitative accuracy of dynamic iodine concentration imaging in **4D Dynamic Contrast Enhanced Breast CT (4D DCE-bCT)** for enhanced breast tumor monitoring. The work includes system adaptations, phantom experiments, and advanced reconstruction techniques to validate iodine concentration measurements.
+This project evaluates the quantitative accuracy of dynamic iodine concentration imaging in 4D Dynamic Contrast Enhanced Breast CT (4D DCE-bCT) for enhanced breast tumor monitoring. The work includes system adaptations, phantom experiments, and advanced reconstruction techniques to validate iodine concentration measurements.
 
 ### Key Features
 - Developed a dedicated breast CT system for extended acquisitions with optimized x-ray spectra.
