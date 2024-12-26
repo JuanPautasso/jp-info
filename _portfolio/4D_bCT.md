@@ -38,5 +38,5 @@ This study highlights the potential of 4D DCE-bCT for dynamic imaging of breast 
 
 ---
 
-<p>You can download the full document from the "Publications" section under the title:</p>
+<p>You can download the full document from the [Publications](/jp-info/publications/) section under the title:</p>
 <p><strong>"4D Dynamic Contrast Enhanced Breast CT: Evaluation of Quantitative Accuracy"</strong>. <em>Published in SPIE Proceedings, 2024.</em></p>
