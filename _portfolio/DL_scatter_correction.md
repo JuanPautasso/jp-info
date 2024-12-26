@@ -2,7 +2,7 @@
 title: "Deep learning for x-ray scatter correction in dedicated breast CT"
 excerpt: >
   <div>
-    </p>Developed a deep learning model for x-ray scatter correction in breast CT images, enhancing image quality and enabling real-time clinical applications. Achieved a 25% improvement in contrast and effective scatter correction, as demonstrated in the figure below.</p>
+    Developed a deep learning model for x-ray scatter correction in breast CT images, enhancing image quality and enabling real-time clinical applications. Achieved a 25% improvement in contrast and effective scatter correction, as demonstrated in the figure below.
     <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_DL.png" />
     <p>Figure: Example of profiles obtained for the three selected slices of reconstructed patient bCT images, both uncorrected and DL-corrected. The filled band represents the obtained range of x-ray linear attenuation values for fibroglandular (fuchsia) and adipose tissue (pink).</p>
     <p>For more information, please click the title above.</p>
