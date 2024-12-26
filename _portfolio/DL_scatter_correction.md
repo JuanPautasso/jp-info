@@ -53,7 +53,7 @@ The scatter-corrected images enhanced visual interpretation, improved contrast b
 
 ---
 
-<p>You can download the full document from the "Publications" section under the title:</p>
+<p>You can download the full document from the [Publications](/jp-info/publications/) section under the title:</p>
 <p><strong>"Deep learning for x-ray scatter correction in dedicated breast CT"</strong>. <em>Published in Medical Physics, 2023.</em></p>
 
 
