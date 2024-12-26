@@ -23,5 +23,5 @@ This work provides a foundation for advancing 4D dynamic contrast-enhanced bCT b
 
 ---
 
-<p>You can download the full document from the "Publications" section under the title:</p>
+<p>You can download the full document from the [Publications](/jp-info/publications/) section under the title:</p>
 <p><strong>"Technical note: Characterization, validation, and spectral optimization of a dedicated breast CT system for contrast-enhanced imaging"</strong>. <em>Published in Medical Physics, 2024.</em></p>
