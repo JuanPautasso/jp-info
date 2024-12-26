@@ -11,7 +11,7 @@ redirect_from:
   <div style="flex: 1; min-width: 250px;">
     <h2 style="margin: 0;">🔬 Driving Innovation in Image Optimization</h2>
     <p style="margin: 10px 0; line-height: 1.6;">
-      Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data fusion, data analysis and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world challenges and push the boundaries of innovation.
+      Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data analysis and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world challenges and push the boundaries of innovation.
     </p>
     <p style="margin: 10px 0; line-height: 1.6;">
       As a PhD Candidate in Medical Imaging at Radboudumc, I am dedicated to advancing diagnostic and treatment technologies for breast cancer through innovative imaging solutions. My work combines machine learning, and system optimization to enhance imaging accuracy and improve patient outcomes.
