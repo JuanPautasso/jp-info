@@ -16,4 +16,5 @@ This work underscores the clinical utility of 4D DCE-bCT in advancing breast ima
 
 The talk was presented at the 17th International Workshop on Breast Imaging (IWBI‐2024), held June 9–12, 2024, in Chicago, IL, USA, and hosted by the University of Chicago.
 
-For more information, visit the [Portfolio](/portfolio/) or [Publications](/publications/) sections of this website.
+For more information, visit the [Portfolio](/jp-info/portfolio/) or [Publications](/jp-info/publications/) sections of this website.
+
