@@ -54,7 +54,7 @@ My professional journey reflects diverse and impactful roles in academia and ind
 
 - Awarded a scholarship by the Tarpuy Foundation for academic excellence during my undergraduate studies.
 - Received a scholarship from the Carolina Foundation in 2018 to pursue a master’s degree in Spain, recognizing academic excellence.
-- Honored with the FONSOFT award for my thesis in biomedical engineering.
+- Honored with the FONSOFT (Trust Fund for the Promotion of the Software Industry) award for my thesis in biomedical engineering.
 
 ---
 
