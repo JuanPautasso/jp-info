@@ -46,7 +46,7 @@ My professional journey reflects diverse and impactful roles in academia and ind
 
 ## 📽️ Mentorship
 
-- Supervised and mentored students in image processing and data analysis, helping them successfully complete their theses.
+- Supervised and mentored master students in image processing and data analysis, helping them successfully complete their theses.
 - Delivered educational content and presentations on signal and image optimization. 
 
 ---
