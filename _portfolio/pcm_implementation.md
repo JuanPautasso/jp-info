@@ -4,7 +4,7 @@ excerpt: >
   <div>
     <p>Characterized and optimized a breast CT system for enhanced contrast imaging, achieving improved detectability and validated performance for clinical applications. Using a task-based detectability index, a 0.25 mm copper filter at 65 kV was identified as optimal for iodine detection, outperforming default aluminum filtration by up to 90%.</p>
     <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_pcm.png" alt="PCM image" style="max-width: 100%; height: auto;" />
-    <p>Parallel-cascaded model representation as gain (triangles in green) and spreading (squares in red) stages.</p>
+    <p>Figure: Parallel-cascaded model representation as gain (triangles in green) and spreading (squares in red) stages.</p>
     <p>For more information, please click the title above.</p>
   </div>
 collection: portfolio
