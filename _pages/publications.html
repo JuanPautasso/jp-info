@@ -6,16 +6,18 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">
-    You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
-  </div>
+<div>
   <p>
-    When listed as the first author, I conducted the majority of the tasks, including image processing, measurements, data analysis, image acquisition, image simulation, dose calculations, and experiment design, with valuable input and collaboration from co-authors. 
-    For articles where I am not listed first, I contributed in secondary roles, providing support in specific areas such as image acquisition, dose calculation, or data analysis, while the majority of the workload was carried out by other authors.
+    You can also find my articles on 
+    <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.
   </p>
-  <p style="font-size: 0.85em; font-style: italic; margin-top: 10px;">
-    Note: The role of first authorship reflects leadership in the research process and substantial contributions to the manuscript preparation.
+  <p>
+    <i style="font-size: smaller;">
+      Note: When listed as the first author, I conducted the majority of the tasks, including image processing, measurements, data analysis, image acquisition, image simulation, dose calculations, and experiment design, with valuable input and collaboration from co-authors. For articles where I am not listed first, I contributed in secondary roles, providing support in specific areas such as image acquisition, dose calculation, or data analysis, while the majority of the workload was carried out by other authors.
+    </i>
   </p>
+</div>
+
 {% endif %}
 
 
