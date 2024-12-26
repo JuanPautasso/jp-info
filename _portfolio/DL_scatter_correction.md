@@ -2,7 +2,7 @@
 title: "Deep learning for x-ray scatter correction in dedicated breast CT"
 excerpt: >
   <div>
-    <p>Developed a deep learning model for scatter correction in breast CT images, improving image quality and enabling real-time clinical applications. Achieved 25% contrast enhancement and effective scatter correction as shown in the figure below.</p>
+    </p>Developed a deep learning model for x-ray scatter correction in breast CT images, enhancing image quality and enabling real-time clinical applications. Achieved a 25% improvement in contrast and effective scatter correction, as demonstrated in the figure below.</p>
     <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_DL.png" />
     <p>Figure: Example of profiles obtained for the three selected slices of reconstructed patient bCT images, both uncorrected and DL-corrected. The filled band represents the obtained range of x-ray linear attenuation values for fibroglandular (fuchsia) and adipose tissue (pink).</p>
     <p>For more information, please click the title above.</p>
@@ -31,8 +31,9 @@ This project focuses on developing a deep learning (DL) model to correct x-ray s
    - Incorporated breast thickness maps and positional data as additional inputs.
    - Trained on 110 phantoms, validated internally, and tested externally.
   
-   <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_DL.png" alt="Schematic overview of the DL architecture used for scatter estimation. The total projection images of size 128 × 80 pixels were
-defined as the main input, while the respective thickness maps and the breast center of mass distance were included at the network bottleneck" />
+   <img src="https://raw.githubusercontent.com/JuanPautasso/jp-info/master/images/image_model.png" alt="model" />
+   Figure: Schematic overview of the DL architecture used for scatter estimation. The total projection images of size 128 × 80 pixels were
+defined as the main input, while the respective thickness maps and the breast center of mass distance were included at the network bottleneck.
 
 3. **Validation & Testing**:
    - Internal Validation: Mean Absolute Error (MAE) of 2.94%.
