@@ -12,6 +12,6 @@ This presentation highlights the development and validation of a Parallel-Cascad
 
 This work demonstrates the PCM’s ability to accurately predict imaging performance, supporting the development of advanced imaging techniques.
 
-The talk was presented at the **European Congress of Radiology 2023**, held in Vienna, Austria.
+The talk was presented at the European Congress of Radiology 2023, held in Vienna, Austria.
 
 For more information, visit the [Portfolio](/portfolio/) or [Publications](/publications/) sections of this website.
