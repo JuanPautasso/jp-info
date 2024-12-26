@@ -22,25 +22,15 @@ redirect_from:
   </div>
 </div>
 
-
 ---
 
 ## 📚 Research Contributions  
 I have led and contributed to impactful projects that have advanced the field of medical imaging:  
 
 - Developed a 4D CT imaging modality combined with radiomics analysis for personalized breast cancer treatment.  
-- Created deep learning models for x-ray scatter correction in dedicated breast CT systems, significantly enhancing image quality and diagnostic precision.  
+- Created deep learning models for x-ray scatter correction in dedicated breast CT systems.  
 - Published articles in leading journals such as Medical Physics and SPIE.  
 - Presented at renowned conferences around the world, including the European Congress of Radiology and the International Workshop of Breast Imaging.  
-
----
-
-## 📜 Independent Research and Publications  
-My dedication to independent research has resulted in a portfolio of peer-reviewed publications and conference presentations, including:  
-
-- Advanced imaging techniques for iodine quantification and system optimization.  
-- Comparative analyses of imaging modalities to enhance diagnostic capabilities.  
-- Technical innovations in breast imaging featured in international journals and conferences.  
 
 ---
 
