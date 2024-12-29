@@ -108,7 +108,7 @@ June 2020 – Present
 
 - Spanish: Native
 - English: Full professional proficiency
-- Dutch: Intermediate (and currently learning)
+- Dutch: Intermediate (B1-level and currently learning)
   
 ---
 
