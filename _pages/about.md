@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 20px;">
   <div style="flex: 1; min-width: 250px;">
-    <h2 style="margin: 0;">🔬 Driving Innovation in Image Optimization</h2>
+    <h2 style="margin: 0;">🔬 Driving Innovation in Image Processing</h2>
     <p style="margin: 10px 0; line-height: 1.6;">
       Throughout my career, I have embraced complex scientific and technical challenges, honing my expertise in image processing, data analysis and computational modeling. These skills have enabled me to drive cutting-edge research projects and develop transformative technologies that address real-world challenges and push the boundaries of innovation.
     </p>
