@@ -37,7 +37,8 @@ I have led and contributed to impactful projects that have advanced the field of
 ## 👨🏻‍🔬 Professional Expertise  
 My professional journey reflects diverse and impactful roles in academia and industry:  
 
-- **PhD Researcher** at Radboudumc: Leading advanced x-ray imaging research, mentoring students, and collaborating with multidisciplinary teams to develop novel imaging solutions.    
+- **PhD Researcher** at Radboudumc: Leading advanced x-ray imaging research, mentoring students, and collaborating with multidisciplinary teams to develop novel imaging solutions.
+- **Consultant** for health-tech company: Identified funding opportunities and supported the establishment of new business units in medical technology.    
 - **Software Engineer** at CNIC: Worked on machine learning models and developed algorithm pipelines for faster and accurate image processing.
 - **Field Engineer** at Industry: Provided technical service for medical imaging equipment. Specialized in ultrasound and LASER technologies.
 
