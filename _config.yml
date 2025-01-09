@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "JP"
-title_separator          : ""
+title_separator          : "|"
 name                     : &name "Juan Pautasso"
 description              : &description "Portfolio showcasing expertise in medical imaging, data science, and R&D."
 url                      : "https://juanpautasso.github.io/jp-info/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
@@ -292,7 +292,7 @@ sass:
 
 
 # Outputting
-permalink: /:categories/ #:title/
+permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
