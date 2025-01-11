@@ -21,23 +21,16 @@ redirect_from:
 ## Work Experience
 
 ### **Ph.D. in Medical Imaging at Radboudumc**  
-June 2020 – Present  
+2020 – Present  
 - Developing a 4D CT imaging modality combined with radiomics analysis to personalize breast cancer treatment.  
 - Conducted measurements and computational modeling to characterize the X-ray system and perform quantitative evaluations.  
-- Supervised and mentored students, guiding data analysis and image processing, resulting in thesis completions.  
-
----
-
-### **Consultant in Health-Tech Sector**  
-2019 – 2020  
-- Identified funding opportunities for a health-tech company, contributing to the development of a new business unit.  
+- Supervised and mentored students, guiding data analysis and image processing, resulting in thesis completions.
 
 ---
 
 ### **Software Engineer at Spanish National Center for Cardiovascular Research**  
 2018 – 2019  
 - Developed and implemented fMRI data processing software that accelerated analysis by 10x and improved patient group comparison accuracy using machine learning.  
-
 ---
 
 ### **Field Engineer in Health-Tech Sector**  
