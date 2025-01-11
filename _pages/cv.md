@@ -30,7 +30,8 @@ redirect_from:
 
 ### **Software Engineer at Spanish National Center for Cardiovascular Research**  
 2018 – 2019  
-- Developed and implemented fMRI data processing software that accelerated analysis by 10x and improved patient group comparison accuracy using machine learning.  
+- Developed and implemented fMRI data processing software that accelerated analysis by 10x and improved patient group comparison accuracy using machine learning.
+  
 ---
 
 ### **Field Engineer in Health-Tech Sector**  
